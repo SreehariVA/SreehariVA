@@ -6,7 +6,7 @@ SreehariVA/SreehariVA is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm SreehariVA</h1>
-<h3 align="center">A passionate Developer Student from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
